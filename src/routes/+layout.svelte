@@ -5,10 +5,6 @@
 	let { children } = $props();
 </script>
 
-<script lang="ts" context="module">
-	export const prerender = true;
-</script>
-
 <svelte:head>
 	<link rel="icon" href={favicon} />
 </svelte:head>
