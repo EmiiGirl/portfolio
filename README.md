@@ -15,7 +15,7 @@ To recreate this project with the same configuration:
 
 ```sh
 # recreate this project
-pnpm dlx sv@0.16.2 create --template minimal --no-types --add prettier eslint tailwindcss="plugins:typography,forms" --install pnpm sreelakshmi-portfolio
+pnpm dlx sv@0.16.2 create --template minimal --no-types --add prettier eslint tailwindcss="plugins:typography,forms" --install pnpm portfolio
 ```
 
 ## Developing
