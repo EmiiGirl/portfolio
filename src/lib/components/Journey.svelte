@@ -5,7 +5,7 @@
   const milestones = [
     { year: '2016', title: 'Learning Programming', desc: 'Wrote the first lines of code and fell in love with logic and problem-solving.' },
     { year: '2018', title: 'Software Development', desc: 'Built robust applications and mastered frontend and backend architectures.' },
-    { year: '2021', title: 'Graduated BCA', desc: 'Completed Bachelor of Computer Applications, solidifying computer science fundamentals.' },
+    { year: '2024', title: 'Graduated BCA', desc: 'Completed Bachelor of Computer Applications, solidifying computer science fundamentals.' },
     { year: '2025', title: 'Founded Updown Interactive', desc: 'Started the company to build meaningful products for modern businesses.' },
     { year: '2025', title: 'Started MCA', desc: 'Pursuing Master of Computer Applications in parallel to leading Updown.' },
     { year: 'Present', title: 'Building Products', desc: 'Successfully deployed uBilly, and currently developing MAASH.' }
